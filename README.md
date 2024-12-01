@@ -11,14 +11,6 @@ An advanced audio synthesis and visualization playground built with Web Audio AP
   - Gain control
   - Delay effects
   - Reverb processing
-  - Advanced audio routing
-
-- 🎹 Interactive Controls
-
-  - Virtual MIDI keyboard
-  - Step sequencer
-  - Audio slicer
-  - Real-time parameter control
 
 - 📊 Visualizations
 
@@ -28,9 +20,19 @@ An advanced audio synthesis and visualization playground built with Web Audio AP
   - Fullscreen visualization support
 
 - 🔌 Dynamic Patching
+
   - Drag-and-drop connections
   - Visual connection paths
   - Easy routing management
+
+- 🎹 Musical Control
+  - Virtual keyboard interface
+  - Step sequencer for rhythmic patterns
+  - Sample loading and playback
+  - Note triggering with computer keyboard
+  - Adjustable tempo and timing controls
+  - Pattern storage and recall
+  - Octave switching
 
 ## 🚀 Getting Started
 

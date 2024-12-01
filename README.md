@@ -83,9 +83,7 @@ The application should now be running in your browser.
 
 ### Quick Start Example
 
-1. Add an Oscillator node (click "+ Add Node" > "Oscillator")
-2. Add a Gain node (click "+ Add Node" > "Gain")
-3. Connect Oscillator output → Gain input
-4. Connect Gain output → Master output
-5. Click the global "Play" button at the top
-6. Adjust the Gain value to control volume
+1. Connect Oscillator output → Gain input
+2. Connect Gain output → Destination input
+3. Click the global "Play" button at the top
+4. Adjust the Gain value to control volume

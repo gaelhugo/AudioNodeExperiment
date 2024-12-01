@@ -79,7 +79,6 @@ The application should now be running in your browser.
 
 1. Every audio connection starts from a source (like an Oscillator) and ends at the destination (your speakers)
 2. Connections are made by dragging from an output (right side) to an input (left side)
-3. The master output is always available at the bottom right of the workspace
 
 ### Quick Start Example
 

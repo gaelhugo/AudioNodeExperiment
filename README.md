@@ -1,3 +1,5 @@
+![](assets/20241201_195252_webAudioApi.png)
+
 # 🎹 AudioNode Experiment
 
 An advanced audio synthesis and visualization playground built with Web Audio API and pure Vanilla JavaScript. Create complex audio routing, modular synthesis, and stunning real-time visualizations.
@@ -26,6 +28,7 @@ An advanced audio synthesis and visualization playground built with Web Audio AP
   - Easy routing management
 
 - 🎹 Musical Control
+
   - Virtual keyboard interface
   - Step sequencer for rhythmic patterns
   - Sample loading and playback
@@ -63,6 +66,7 @@ An advanced audio synthesis and visualization playground built with Web Audio AP
    ```
 
 4. Open your browser and navigate to:
+
    ```
    http://localhost:3000
    ```

@@ -68,10 +68,10 @@ An advanced audio synthesis and visualization playground built with Web Audio AP
 4. Open your browser and navigate to:
 
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
-The application should now be running in your browser with full audio functionality.
+The application should now be running in your browser.
 
 ## 🎮 How to Use
 
